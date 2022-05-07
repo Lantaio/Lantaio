@@ -3,7 +3,7 @@
 ### 📚 I'm studying `CSS`, After that, I'm going to study `Java` and `Python`.
 ### 🙋‍♂️ I have no intention of joining other organizations for the time being. If you really want me to join, welcome to contact me.
 ### 📫 In addition, you can also send me an email from this email address lantaio@yeah.net .
-### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries.
+### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 <br />
 
 ## 👋 大家好，我叫迷思耀。你可以 @Lantaio 。
@@ -11,4 +11,4 @@
 ### 📚 正在学习`CSS`，接下来打算学习`Java`和`Python`。
 ### 🙋‍♂️ 暂时没有加入其它组织的打算。如果你非常希望我加入，欢迎联系我。
 ### 📫 除此之外，你也可以通过 lantaio@yeah.net 邮箱给我发邮件。
-### ☮ 我是一个反战人士和一个无国界主义者。我反对以任何理由发动战争，提倡打破国与国之间的藩篱和隔阂。
+### ☮ 我是一个反战人士和一个无国界主义者。我反对以任何理由发动战争，提倡打破国与国之间的藩篱和隔阂。也反对以反战之名发起另一种形式的战争。
