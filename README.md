@@ -2,6 +2,7 @@
 
 <a href="#简体中文">简体中文个人简介</a>
 <a name="English" />
+<br />
 
 ## 👋 Hi, my name is Lantaio Joy. You can @Lantaio. 
 ### 🧐 I am interesting in knowledge management software such as Obsidian and it's related plug-ins, theme beautification and so on.
@@ -10,8 +11,9 @@
 ### 📫 You can send me an email to this email address lantaio@yeah.net.
 ### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 ### 👎 I don't think an international internet company should talk about ugly politics. Talking about politics is the biggest insult to science. You disappointed me, GitHub.
-<br />
+
 <a name="简体中文" />
+<br />
 
 ## 👋 大家好，我叫阿耀。你可以 @Lantaio 。
 ### 🧐 我正对 Obsidian等知识管理类软件及其相关插件、主题美化等感兴趣。
