@@ -1,6 +1,9 @@
-<a name="top" /><br />
+<a name="top" />
+
 <a href="#English">English profile</a>
+
 <a href="#简体中文">简体中文个人简介</a>
+
 <a name="English" /><br />
 
 ## 👋 Hi, my name is Lantaio Joy. You can @Lantaio. 
