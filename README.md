@@ -12,6 +12,8 @@
 ### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 ### 👎 I don't think an international internet company should talk about ugly politics. Talking about politics is the biggest insult to science. You disappointed me, GitHub.
 
+---
+
 <a name="简体中文" /><br />
 
 ## 👋 大家好，我叫阿耀。你可以 @Lantaio 。
