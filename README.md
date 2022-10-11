@@ -1,5 +1,3 @@
-<a name="top" />
-
 <a href="#English">English</a> | <a href="#简体中文">简体中文</a>
 
 <a name="English" /><br />
@@ -11,6 +9,8 @@
 ### 📫 You can send me an email to this email address lantaio@yeah.net.
 ### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 ### 👎 I don't think an international internet company should talk about ugly politics. Talking about politics is the biggest insult to science. You disappointed me, GitHub.
+
+<a href="#top">Back to top</a>
 
 ---
 
