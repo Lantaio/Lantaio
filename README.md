@@ -1,5 +1,4 @@
-<a id="head" />
-[English](#English) | [简体中文](#简体中文)
+<a id="head" />[English](#English) | [简体中文](#简体中文)
 
 <a id="English" /><br />
 
