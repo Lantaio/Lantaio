@@ -1,3 +1,4 @@
+<a id="head" />
 [English](#English) | [简体中文](#简体中文)
 
 <a id="English" /><br />
@@ -10,7 +11,7 @@
 ### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 ### 👎 I don't think an international internet company should talk about ugly politics. Talking about politics is the biggest insult to science. You disappointed me, GitHub.
 
-[Back to top](#top)
+[Back to head](#head) | [Back to top](#top)
 
 ---
 
@@ -24,4 +25,4 @@
 ### ☮ 我是一个反战人士和一个无国界主义者。我反对以任何理由发动战争，提倡打破国与国之间的藩篱和隔阂。也反对以反战之名发起另一种形式的战争。
 ### 👎 我认为一个国际性的互联网企业不应该谈及丑恶的政治，谈政治是对科学最大的侮辱。GitHub，你令我感到失望。
 
-[返回顶部](#top)
+[回到文档开头](#head) | [回到顶部](#top)
