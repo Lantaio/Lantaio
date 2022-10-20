@@ -1,6 +1,6 @@
-<a href="#English">English</a> | <a href="#简体中文">简体中文</a>
+[English](#English) | [简体中文](#简体中文)
 
-<a name="English" /><br />
+<a id="English" /><br />
 
 ## 👋 Hi, my name is Lantaio Joy. You can @Lantaio. 
 ### 🧐 I am interesting in knowledge management software such as Obsidian and it's related plug-ins, theme beautification and so on.
@@ -10,11 +10,11 @@
 ### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 ### 👎 I don't think an international internet company should talk about ugly politics. Talking about politics is the biggest insult to science. You disappointed me, GitHub.
 
-<a href="#top">Back to top</a>
+[Back to top](#top)
 
 ---
 
-<a name="简体中文" /><br />
+<a id="简体中文" /><br />
 
 ## 👋 大家好，我叫阿耀。你可以 @Lantaio 。
 ### 🧐 我正对 Obsidian等知识管理类软件及其相关插件、主题美化等感兴趣。
@@ -24,4 +24,4 @@
 ### ☮ 我是一个反战人士和一个无国界主义者。我反对以任何理由发动战争，提倡打破国与国之间的藩篱和隔阂。也反对以反战之名发起另一种形式的战争。
 ### 👎 我认为一个国际性的互联网企业不应该谈及丑恶的政治，谈政治是对科学最大的侮辱。GitHub，你令我感到失望。
 
-<a href="#top">返回顶部</a>
+[返回顶部](#top)
