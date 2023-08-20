@@ -2,7 +2,7 @@
 
 🌏 [English](#English) | [简体中文](#简体中文)
 
-<a id="English" /><br />
+<a id="English" />
 
 ## 👋 Hi, my name is Lantaio Joy. You can @Lantaio. 
 ### 🧐 I am interesting in knowledge management software such as Obsidian and it's related plug-ins, theme beautification and so on.
@@ -16,7 +16,7 @@
 
 ---
 
-<a id="简体中文" /><br />
+<a id="简体中文" />
 
 ## 👋 大家好，我叫阿耀。你可以 @Lantaio 。
 ### 🧐 我正对 Obsidian等知识管理类软件及其相关插件、主题美化等感兴趣。
