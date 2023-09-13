@@ -12,7 +12,7 @@
 ### ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 ### 👎 I don't think an international internet company should talk about ugly politics. Talking about politics is the biggest insult to science. You disappointed me, GitHub.
 
-[back to title](#英文) | [select language](#语言)
+[change language](#语言) | [back to title](#英文)
 
 ---
 
@@ -26,5 +26,5 @@
 ### ☮ 我是一个反战人士和一个无国界主义者。我反对以任何理由发动战争，提倡打破国与国之间的藩篱和隔阂。也反对以反战之名发起另一种形式的战争。
 ### 👎 我认为一个国际性的互联网企业不应该谈及丑恶的政治，谈政治是对科学最大的侮辱。GitHub，你令我感到失望。
 
-[返回标题](#简体中文) | [选择语言](#语言)
+[更换语言](#语言) | [返回标题](#简体中文)
 
