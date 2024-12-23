@@ -6,7 +6,7 @@
 
 ## 👋 大家好，我叫阿耀。你可以 @Lantaio 。
 
-🧐 我正对 Obsidian等知识管理类软件及其相关插件、主题美化等感兴趣。
+🧐 我对能提高人们的工作效率和幸福感的事物感兴趣，近期尝试用Obsidian搭建自己的知识管理系统。
 
 📚 我正在学习CSS。接下来打算学习Java和Python。
 
@@ -26,13 +26,13 @@
 
 ## 👋 Hi, my name is Lantaio Joy. You can @Lantaio .
 
-🧐 I am interesting in knowledge management software such as Obsidian and it's related plug-ins, theme beautification and so on.
+🧐 I am interested in things that can enhance people's work efficiency and happiness, and I have recently tried to build my own knowledge management system using Obsidian.
 
 📚 I'm studying CSS. After that, I'm going to study Java and Python.
 
 🙋‍♂️ I have no intention of joining other organizations for the time being. If you really want me to join, welcome to contact me.
 
-📫 You can send me an email to this email address lantaio@yeah.net.
+📫 You can send me emails to this email address lantaio@yeah.net.
 
 ☮ I am an anti war figure and a borderless person. I oppose waging war for any reason and advocate breaking the barriers between countries. Also opposed to launching another form of war in the name of anti-war.
 
