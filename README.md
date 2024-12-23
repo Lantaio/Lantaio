@@ -18,7 +18,7 @@
 
 👎 我认为一个国际性的互联网企业不应该谈及丑恶的政治，谈政治是对科学最大的侮辱。GitHub，你令我感到失望。
 
-[更换语言](#语言) | [返回标题](#简体中文)
+[更换语言](#语言) | [返回顶部](#简体中文)
 
 ---
 
@@ -38,4 +38,4 @@
 
 👎 I don't think an international internet company should talk about ugly politics. Talking about politics is the biggest insult to science. You disappointed me, GitHub.
 
-[change language](#语言) | [back to title](#英文)
+[change language](#语言) | [back to top](#英文)
